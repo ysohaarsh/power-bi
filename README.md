@@ -10,6 +10,7 @@ This project aims to analyze and visualize employee attrition rates using Power 
 
 ## Visualizations
 !Attrition Rate Dashboard
+/Attrition_rate.png
 
 ## Usage
 The dashboard can be used by HR departments to understand and mitigate factors leading to employee attrition.
