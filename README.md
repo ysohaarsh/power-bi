@@ -9,8 +9,7 @@ This project aims to analyze and visualize employee attrition rates using Power 
 - Drill-down capabilities for detailed data exploration.
 
 ## Visualizations
-!Attrition Rate Dashboard
-/Attrition_rate.png
+![Poker Hand Detection](Attrition_rate.png)
 
 ## Usage
 The dashboard can be used by HR departments to understand and mitigate factors leading to employee attrition.
